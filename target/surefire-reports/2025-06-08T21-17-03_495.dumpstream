@@ -1,0 +1,5 @@
+# Created at 2025-06-08T21:17:04.756
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SHAHID CODING\SPRING BOOT\Youtube_Scrapper\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
